@@ -1,0 +1,238 @@
+#page1
+{
+	background-color: #E4E4E6;
+}
+#page2
+{
+	background-color: #D1D1D6;
+}
+#page3
+{
+	background-color: #E4E4E6;
+}
+#page4
+{
+	background-color: #D1D1D6;
+}
+#page5
+{
+	background-color: #E4E4E6;
+}
+#page6
+{
+	background-color: #D1D1D6;
+}
+#page7
+{
+	background-color: #E4E4E6;
+}
+
+.page_head
+{
+   font-family: 'Times New Roman' !important;
+   font-size:1.6em !important;
+   font-weight: 700;
+   border-top:1px solid #ccc;
+   padding-top:15px;
+   width : 60%;
+   color : #3e4938 !important; 
+}
+
+
+.hr
+{
+	color:#ccc;
+	border:none;
+	height:0.5px;
+}
+
+.spacer
+{
+	border-top:1px solid #ccc; //767772
+    width : 7%;	
+}
+
+#txtmain
+{
+	font-family: 'Times New Roman' !important;
+}
+
+.info
+{
+	width:100%;
+	clear:both;
+	font-family: 'Times New Roman' !important;
+	font-size:0.75em ;
+	font-weight: 400 !important;
+	overflow: auto !important;
+	color: #697989 !important;
+}
+
+.info a:link {color:#697989;}      /* unvisited link */
+.info a:visited {color:#697989;}  /* visited link */
+.info a:hover {color:#697989;}  /* mouse over link */
+.info a{text-decoration:none;}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+
+.pad
+{
+	padding-top: 20px;
+	text-align: left;
+}
+
+.span_light
+{
+	clear:both;
+	letter-spacing: 0.4em !important;
+	font-size:0.8em !important;
+	color:#6886a0 !important;
+	font-weight:500 !important;
+	font-family: 'Times New Roman' !important;
+}
+
+.gc-ruler
+{
+	float:left;
+	width:21%;
+	display:table-cell;
+}
+
+.gc-ruler span
+{
+   position: relative;
+    display: inline-block;
+    * display: inline; /* fix for IE bugs */
+    * zoom: 1; /* fix for IE bugs */
+    height: 1px;
+    width: 85%;
+    background-color: #ccc;
+   // border-bottom: 1px solid #00f;
+    vertical-align: middle;
+    margin: 0px 0px 5px 0px;
+}
+
+.span_dark
+{
+	clear:both;
+	letter-spacing: 0.4em !important;
+	font-size:0.9em !important;
+	color:#5b81a6 !important;
+	font-weight:800 !important;
+	font-family: 'Times New Roman' !important;
+}
+
+
+.txt-head
+{
+	color:#555;
+	font-weight: 700;
+	font-size: 1.8em;
+	text-align: justify;
+	border-top:1px solid #ccc;
+	padding-top:20px;
+}
+
+.txt-sblue
+{
+	color:#92A5B6;
+	font-weight: 400;
+	font-size: 1em;
+	text-align: left;
+	font-style:oblique;
+	border-bottom:1px solid #ccc;
+	padding: 10px 0px 20px;
+	width:75%;
+}
+
+.page
+{
+	background-color: #E4E4E6;
+	position: fixed;
+	overflow: hidden;
+	top: 0px;
+	left:0px;
+	z-index: 0;
+}
+
+#arrow-right-c, #arrow-left-c
+{
+	opacity:0.80;
+	filter:alpha(opacity=80);
+	cursor:pointer;
+}
+
+#arrow-right-c:hover, #arrow-left-c:hover
+{
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	cursor:pointer;
+}
+
+#area-subsection-c
+{
+	background-color: #E4E4E6;
+}
+
+a.con-a:visited, a.con-a:link, a.con-a:active
+{
+	text-decoration: none;
+}
+
+a.con-a:hover
+{
+	text-decoration: underline;
+}
+
+#con-a:visited, #con-a:link, #con-a:active
+{
+	text-decoration: none;
+}
+
+#con-a:hover
+{
+	text-decoration: underline;
+}
+
+.head-left-push
+{
+	padding-left: 20px;
+	margin-left: 50px;
+}
+
+.iload
+{
+	background-color: #000;
+}
+
+.gc-utube
+{
+	border-left: 1px solid #888;
+	padding-left:40px;
+	text-align:left;
+	height:350px;
+	width:350px;
+	overflow:auto;
+}
+
+.gc-utube-over
+{
+	position:absolute;left:46px;top:300px;width:250px;height:50px;
+	background-image: -webkit-linear-gradient(bottom, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100% );
+	background-image: -moz-linear-gradient(bottom center, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100% );
+	background-image: linear-gradient(bottom, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 100% );
+	filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColor=0, endColorStr=#FFFFFF);
+	-ms-filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColor=0, endColoStr=#FFFFFF);
+}

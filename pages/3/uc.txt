@@ -1,0 +1,2 @@
+<a class=gsc href=# onClick="CHelp.showUTubeVid(this);return(false);" name="{X}"><img class=iload src="http://img.youtube.com/vi/{X}/0.jpg" border=0 width=250px align=center /></a>
+

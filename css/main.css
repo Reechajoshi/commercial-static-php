@@ -1,0 +1,186 @@
+div.gc
+{
+	overflow: hidden;
+	text-align: left;
+	white-space: nowrap;
+}
+
+div.gc-rel
+{
+	overflow: hidden;
+	text-align: left;
+	white-space: nowrap;
+	position:relative;
+	left:0px;top:0px;
+}
+
+div.gsc
+{
+	float: left;
+	text-align: left;
+	white-space: nowrap;
+	margin: 0px;
+	padding: 0px;
+}
+
+a.gsc
+{
+	display:block;
+	float: left;
+	text-align: left;
+	white-space: nowrap;
+	margin: 5px;
+	padding: 0px;
+}
+
+div.asrb
+{
+	float: right;
+	text-align: left;
+	white-space: nowrap;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.gc-wrap
+{
+	overflow: hidden;
+	white-space: normal;
+}
+
+div.gc-main
+{
+	max-width:800px;
+	min-width:800px
+	width:800px;
+	overflow:hidden;
+}
+
+.winblockers-table
+{
+	background-color: #000;
+	width: 100%;
+	height: 100%;
+}
+
+#winblockers
+{
+	position: fixed;
+	left:0px; top: 0px;
+	height: 100%; width: 100%;
+	overflow: hidden;
+	color:#555;
+	padding: 0px;
+	z-index:3000;
+}
+
+#loadset
+{
+	position: fixed;
+	left:0px; top: 0px;
+	height: 100%; width: 100%;
+	overflow: hidden;
+	color:#555;
+	font-weight: 400;
+	font-size: 1.7em;
+	padding: 0px;
+	z-index:5001;
+	background-color: #fff;
+}
+
+#scrollset
+{
+	position: absolute;
+	left:0px; top: 0px;
+	height: 1px; width: 1px;
+	overflow: hidden;
+}
+
+.txt-main
+{
+	color:#555;
+	font-weight: 400;
+	font-size: 1.4em;
+	text-align: justify;
+}
+
+#social-top
+{
+	position:fixed;
+	z-index:1002;
+	left: 0px;
+	top:0px;
+	height: 24px;
+	width:100%;
+	background-color: transparent;
+}
+
+
+#social-top  div span
+{
+	color: #404040;
+	font-size: 0.9em;
+}
+
+#social-top div a:visited, #social-top div a:link, #social-top div a:active
+{
+	display:inline-block;
+	z-index:1004;
+	color: #404040;
+	font-size: 0.9em;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	text-decoration: none;
+	position:relative;
+	top: 1px;
+}
+
+#social-top div a:hover
+{
+	font-weight: 700;
+}
+
+#menu-top
+{
+	position:fixed;
+	z-index:1001;
+	left: 0px;
+	top:0px;
+	height: 24px;
+	width:100%;
+	background-color: #c5c5c5;
+}
+
+#menu-top div
+{
+	position: absolute;
+	z-index:1003;
+	float:left;
+}
+
+#menu-top  div span
+{
+	color: #404040;
+	opacity:0.80;
+	font-size: 0.9em;
+}
+
+#menu-top div a:visited, #menu-top div a:link, #menu-top div a:active
+{
+	display:inline-block;
+	z-index:1004;
+	color: #404040;
+	font-size: 0.9em;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	text-decoration: none;
+	position:relative;
+	top: 1px;
+}
+
+#menu-top div a:hover
+{
+	font-weight: 700;
+}

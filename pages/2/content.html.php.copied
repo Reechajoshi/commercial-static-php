@@ -1,0 +1,22 @@
+﻿<div class="gc-wrap txt-main">
+	<div name=ctitle>
+		<div class="page_head" style="">ABOUT US</div>
+		<div style="width:100%;overflow:hidden !important;">
+			<div class=gc-ruler><span>&#160;</span></div>
+			<div style="float:left;width:78%;display: table-cell;vertical-align:top;">
+				<a class="con-a span_light" href=# onclick="Pfaa.qgaa(true, Rgaa._txtExtra);return(false)">GALLERY</a>
+			</div>
+		</div>
+	</div>
+	<div name=cinfo class="info" style="">
+		<div class="pad">&#149; FAR COMMERCIALS, a reputed, highly professional film/TVC production house built from teamwork over the years on a solid foundation of cinematic experience.</div>
+		<div class="pad">&#149; FAR (FILMS AND RADIO) PRODUCTION COMPANY, our parent company was founded in the 60’s and is today a successful production setup with a strong fresh young team.</div>
+		<div class="pad">&#149; PRODUCER PARTNERS: JEETSURENDRANATH AND ROHINI PINTO are at the helm of all FAR COMMERCIALS activity, with a penchant for excellence, innovation and creativity. With years of experience working worldwide in the field of television commercials production, they have carved a niche and achieved a distinguished reputation for FAR as a premium production house in the country.</div>
+		<div class="pad">&#149; BUDGETS: This production experience over the years has enabled our projects to excel cost-effectively, aesthetically and with the required production values.</div>
+		<div class="pad">&#149; FARCOMMERCIALS DIRECTORS AND TEAMS, are essentially selected,passionate, fun loving diligent professionals, completely dedicated to providing the highest level of excellence on every project.
+These directors on our panel, have enabled us to build up a strong body of television commercials, over the years.
+Recent TV commercials like the current American Tourister/Dominos pizza series coupled with socially motivated public service films like the DOTS campaign on tuberculosis awareness were widely acclaimed by the fraternity.</div>
+		<div class="pad">&#149; AWARDS: FAR COMMERCIALS has been the recipient of various international awards and certificates of merit for the television commercials and public service films produced over the years - including the esteemed international Clio award for ’The Story of Hope’- (best public service film). This award later placed FAR COMMERCIALS and the director Kailash Surendranath in the ’Clio hall of fame’.</div>
+		<div class="pad">&#149; PRODUCTION SUPPORT: FAR COMMERCIALS as a production service provider has a vast list of international directors, production houses, agencies and clients, worldwide whose projects have been serviced meticulously by our teams over the years.</div>
+	</div>
+</div>

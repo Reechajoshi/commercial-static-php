@@ -1,0 +1,7 @@
+<Files "ax.x">
+		AuthType Basic
+		AuthName "FAR Commercials Admin"
+		AuthUserFile "/etc/apache2/pass/far.admin.pass"
+		Allow from all
+		Require valid-user
+</Files>

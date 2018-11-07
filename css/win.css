@@ -1,0 +1,19 @@
+.vwin-full
+{
+	border:1px solid #ccc;
+	overflow: hidden;
+	text-align: left;
+	white-space: wrap;
+	padding: 0px 10px;
+	margin: 0px;
+}
+
+.vwin-max { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.vwin-top { position: absolute; top: 0; left: 0; }
+
+.vwin-content
+{
+	background-color: #fff;
+}
+
+.vwin-light-shade { background-color: #000; opacity: .35; filter: Alpha(Opacity=35); }
